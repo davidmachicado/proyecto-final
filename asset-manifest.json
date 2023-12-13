@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/proyecto-final/static/css/main.10eee959.css",
+    "main.js": "/proyecto-final/static/js/main.d364b86d.js",
+    "static/js/787.1c5f2032.chunk.js": "/proyecto-final/static/js/787.1c5f2032.chunk.js",
+    "static/media/hot3.jpg": "/proyecto-final/static/media/hot3.204c2ee9b022351b9b01.jpg",
+    "static/media/barbie1.jpg": "/proyecto-final/static/media/barbie1.3fad5a920465f6f59f57.jpg",
+    "static/media/banner-bg.png": "/proyecto-final/static/media/banner-bg.cc1273af450504afe755.png",
+    "static/media/lego3.jpg": "/proyecto-final/static/media/lego3.d41dcd75a6203353e857.jpg",
+    "static/media/hasbro2.jpg": "/proyecto-final/static/media/hasbro2.47bfa05eedf657993732.jpg",
+    "static/media/mattel1.jpg": "/proyecto-final/static/media/mattel1.f4cd24d79e4346c8ae4c.jpg",
+    "static/media/pani1.jpg": "/proyecto-final/static/media/pani1.3ef3616f833c8ae0b617.jpg",
+    "static/media/hot2.jpg": "/proyecto-final/static/media/hot2.fccef61c49287a9fc057.jpg",
+    "static/media/barbie2.jpg": "/proyecto-final/static/media/barbie2.1b11233f5f11f97d7d00.jpg",
+    "static/media/lego1.jpg": "/proyecto-final/static/media/lego1.e73fa2ee6ca4ee7039a6.jpg",
+    "static/media/mattel3.jpg": "/proyecto-final/static/media/mattel3.60d1208446cad08fe23d.jpg",
+    "static/media/nerf3.jpeg": "/proyecto-final/static/media/nerf3.a6940a222db735e20d5f.jpeg",
+    "static/media/pani2.jpg": "/proyecto-final/static/media/pani2.c1576590cc348407a2b2.jpg",
+    "static/media/hot1.jpg": "/proyecto-final/static/media/hot1.b493e1ce2b7bbae7e83c.jpg",
+    "static/media/CentraNo2-Bold.ttf": "/proyecto-final/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/proyecto-final/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/proyecto-final/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/hasbro3.jpg": "/proyecto-final/static/media/hasbro3.3437fd267b99b3ec720e.jpg",
+    "static/media/barbie3.jpg": "/proyecto-final/static/media/barbie3.8b750d747fdaade45929.jpg",
+    "static/media/nerf1.jpg": "/proyecto-final/static/media/nerf1.a2ac56c59388c1af681a.jpg",
+    "static/media/hasbro1.jpg": "/proyecto-final/static/media/hasbro1.07192ea96ddb19976588.jpg",
+    "static/media/mattel2.jpg": "/proyecto-final/static/media/mattel2.d02dfaa90d8afadf2432.jpg",
+    "static/media/lego2.jpg": "/proyecto-final/static/media/lego2.de29ffd3d3269d657528.jpg",
+    "static/media/nerf2.jpg": "/proyecto-final/static/media/nerf2.6dc7e40c91f895acc129.jpg",
+    "static/media/usi.jpg": "/proyecto-final/static/media/usi.10fd709cb3e571986e51.jpg",
+    "static/media/pani3.jpg": "/proyecto-final/static/media/pani3.416f522a145854631c40.jpg",
+    "static/media/nav-icon3.svg": "/proyecto-final/static/media/nav-icon3.08b285abb8e118b52637efa5d65c5367.svg",
+    "index.html": "/proyecto-final/index.html",
+    "static/media/nav-icon2.svg": "/proyecto-final/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
+    "main.10eee959.css.map": "/proyecto-final/static/css/main.10eee959.css.map",
+    "main.d364b86d.js.map": "/proyecto-final/static/js/main.d364b86d.js.map",
+    "787.1c5f2032.chunk.js.map": "/proyecto-final/static/js/787.1c5f2032.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10eee959.css",
+    "static/js/main.d364b86d.js"
+  ]
+}
